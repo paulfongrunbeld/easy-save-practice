@@ -1,2 +1,2 @@
 # easy-save-practice
-Unity project with EasySave3 asset
+Unity 2D platformer with save/load logic, based on EasySave3 asset
